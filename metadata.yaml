@@ -1,0 +1,26 @@
+_repo: Prayer-for-the-oppressed-b-A-premium-tract_70704
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thome, James A.
+    gutenberg_agent_id: '55874'
+    url: http://www.gutenberg.org/2009/agents/55874
+description: ''
+gutenberg_issued: '2023-05-04'
+identifiers:
+  gutenberg: '70704'
+language: en
+pgterms:marc905: 20190408075814thome
+pgterms:marc906: '1859'
+pgterms:marc907: US
+production_note: Bob Taylor, hekula03 and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by the Library of Congress)
+publication_note: '  $aUnited States :$bAmerican Tract Society, $c1859.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Prayer for the oppressed: : $b A premium tract'
+url: http://www.gutenberg.org/ebooks/70704
