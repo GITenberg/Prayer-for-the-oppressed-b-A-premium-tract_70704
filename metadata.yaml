@@ -1,11 +1,16 @@
 _repo: Prayer-for-the-oppressed-b-A-premium-tract_70704
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70704-h/images/cover.jpg
 creator:
   author:
     agent_name: Thome, James A.
     gutenberg_agent_id: '55874'
     url: http://www.gutenberg.org/2009/agents/55874
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70704#Prayer-for-the-oppressed-b-A-premium-tract
 gutenberg_issued: '2023-05-04'
 identifiers:
   gutenberg: '70704'
